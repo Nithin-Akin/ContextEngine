@@ -1,0 +1,21 @@
+Northstar Cloud Company Policy
+
+Refund Policy:
+Customers on monthly plans can request a full refund within 14 days of purchase.
+Enterprise customers have a 60-day refund window.
+Enterprise refunds are calculated on a pro-rated basis based on remaining contract time.
+
+Password Security:
+Passwords must contain at least 12 characters.
+Users are required to enable two-factor authentication for administrator accounts.
+Password reset links expire after 20 minutes.
+
+Leave Policy:
+Full-time employees receive 24 paid leave days per year.
+Unused paid leave can be carried forward up to a maximum of 5 days.
+Employees must request planned leave at least 3 working days in advance.
+
+Support:
+Standard customers receive email support during business hours.
+Enterprise customers receive 24/7 priority support.
+The target response time for enterprise critical incidents is 30 minutes.

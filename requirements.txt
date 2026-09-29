@@ -1,0 +1,4 @@
+google-genai
+sentence-transformers
+rank-bm25
+numpy
